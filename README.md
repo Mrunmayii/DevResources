@@ -10,3 +10,6 @@ You can get the APK from here: <a href="https://drive.google.com/drive/folders/1
 
 ### MAD Score
 ![summary](https://user-images.githubusercontent.com/91387531/152099112-fe768d7f-0f2f-464b-a782-b77fbcc28f8a.png)
+
+
+Note : When using the app for the 1st time, please open all the activities alteast for once with internet connected to your phone so that it will store the cache for offline work :)
